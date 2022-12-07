@@ -11,4 +11,4 @@ function AER(){
         document.getElementById("button").innerHTML="<a href='/?ligar' class='button'>Ligar Rele</a>";
     }
 }
-//by Luis
+//by Enrico, Jonatan e Luis
